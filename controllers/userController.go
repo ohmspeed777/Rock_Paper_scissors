@@ -39,13 +39,6 @@ func (controller *userController) SingUp(ctx *gin.Context) {
 	// fmt.Println(user)
 	_ = mgm.Coll(user).First(bson.M{"username": newUser.Username}, user)
 
-	// if userErr != nil {
-	// 	ctx.JSON(http.StatusBadRequest, gin.H{
-	// 		"msg": "Some thing went wrong, Please try agin!!!",
-	// 	})
-	// 	return
-	// }
-
 	if user.Username != "" {
 		ctx.JSON(http.StatusBadRequest, gin.H{
 			"msg": "This Username already used",
