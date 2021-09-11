@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "613c52d800af57136d90ef9c"
+  },
+  "created_at": {
+    "$date": "2021-09-11T06:55:20.191Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T06:55:20.191Z"
+  },
+  "username": "One"
+},{
+  "_id": {
+    "$oid": "613c52e000af57136d90ef9d"
+  },
+  "created_at": {
+    "$date": "2021-09-11T06:55:28.253Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T06:55:28.253Z"
+  },
+  "username": "Two"
+},{
+  "_id": {
+    "$oid": "613c52ea00af57136d90ef9e"
+  },
+  "created_at": {
+    "$date": "2021-09-11T06:55:38.588Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T06:55:38.588Z"
+  },
+  "username": "John"
+},{
+  "_id": {
+    "$oid": "613c52f300af57136d90ef9f"
+  },
+  "created_at": {
+    "$date": "2021-09-11T06:55:47.029Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T06:55:47.029Z"
+  },
+  "username": "Jack"
+},{
+  "_id": {
+    "$oid": "613c52f600af57136d90efa0"
+  },
+  "created_at": {
+    "$date": "2021-09-11T06:55:50.389Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T06:55:50.389Z"
+  },
+  "username": "Chet"
+},{
+  "_id": {
+    "$oid": "613c52fa00af57136d90efa1"
+  },
+  "created_at": {
+    "$date": "2021-09-11T06:55:54.624Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T06:55:54.624Z"
+  },
+  "username": "Donut"
+}]

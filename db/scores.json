@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "613c59aad8a935699dd481a7"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:24:26.554Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:24:26.554Z"
+  },
+  "challenger": "613c52d800af57136d90ef9c",
+  "opponent": "613c52ea00af57136d90ef9e",
+  "Challenger_action": "rock",
+  "Opponent_action": "paper",
+  "results": "lose"
+},{
+  "_id": {
+    "$oid": "613c59fad8a935699dd481aa"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:25:46.807Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:25:46.807Z"
+  },
+  "challenger": "613c52ea00af57136d90ef9e",
+  "opponent": "613c52e000af57136d90ef9d",
+  "Challenger_action": "paper",
+  "Opponent_action": "scissor",
+  "results": "lose"
+},{
+  "_id": {
+    "$oid": "613c5a1ad8a935699dd481ad"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:26:18.601Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:26:18.601Z"
+  },
+  "challenger": "613c52ea00af57136d90ef9e",
+  "opponent": "613c52f300af57136d90ef9f",
+  "Challenger_action": "paper",
+  "Opponent_action": "rock",
+  "results": "win"
+},{
+  "_id": {
+    "$oid": "613c5a1fd8a935699dd481ae"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:26:23.152Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:26:23.152Z"
+  },
+  "challenger": "613c52e000af57136d90ef9d",
+  "opponent": "613c52f300af57136d90ef9f",
+  "Challenger_action": "scissor",
+  "Opponent_action": "rock",
+  "results": "lose"
+},{
+  "_id": {
+    "$oid": "613c5a52d8a935699dd481b0"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:27:14.287Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:27:14.287Z"
+  },
+  "challenger": "613c52f300af57136d90ef9f",
+  "opponent": "613c52d800af57136d90ef9c",
+  "Challenger_action": "rock",
+  "Opponent_action": "paper",
+  "results": "lose"
+},{
+  "_id": {
+    "$oid": "613c5a69d8a935699dd481b3"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:27:37.658Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:27:37.658Z"
+  },
+  "challenger": "613c52e000af57136d90ef9d",
+  "opponent": "613c52ea00af57136d90ef9e",
+  "Challenger_action": "scissor",
+  "Opponent_action": "paper",
+  "results": "win"
+},{
+  "_id": {
+    "$oid": "613c5a78d8a935699dd481b4"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:27:52.541Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:27:52.541Z"
+  },
+  "challenger": "613c52d800af57136d90ef9c",
+  "opponent": "613c52ea00af57136d90ef9e",
+  "Challenger_action": "paper",
+  "Opponent_action": "paper",
+  "results": "draw"
+},{
+  "_id": {
+    "$oid": "613c830c4fd2c379c72f6331"
+  },
+  "created_at": {
+    "$date": "2021-09-11T10:21:00.960Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T10:21:00.960Z"
+  },
+  "challenger": "613c52ea00af57136d90ef9e",
+  "opponent": "613c52f300af57136d90ef9f",
+  "Challenger_action": "paper",
+  "Opponent_action": "rock",
+  "results": "win"
+},{
+  "_id": {
+    "$oid": "613c832c4fd2c379c72f6332"
+  },
+  "created_at": {
+    "$date": "2021-09-11T10:21:32.447Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T10:21:32.447Z"
+  },
+  "challenger": "613c52f600af57136d90efa0",
+  "opponent": "613c52f300af57136d90ef9f",
+  "Challenger_action": "paper",
+  "Opponent_action": "rock",
+  "results": "win"
+},{
+  "_id": {
+    "$oid": "613c83404fd2c379c72f6334"
+  },
+  "created_at": {
+    "$date": "2021-09-11T10:21:52.041Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T10:21:52.041Z"
+  },
+  "challenger": "613c52f300af57136d90ef9f",
+  "opponent": "613c52f600af57136d90efa0",
+  "Challenger_action": "rock",
+  "Opponent_action": "rock",
+  "results": "draw"
+}]

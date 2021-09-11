@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "613c5a5cd8a935699dd481b2"
+  },
+  "created_at": {
+    "$date": "2021-09-11T07:27:24.334Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-11T07:27:24.334Z"
+  },
+  "challenger": "613c52d800af57136d90ef9c",
+  "opponent": "613c52e000af57136d90ef9d",
+  "action": "paper"
+}]
