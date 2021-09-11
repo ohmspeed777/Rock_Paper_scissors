@@ -20,7 +20,7 @@ type Score struct {
 // }
 
 type Stat struct {
-	History string `bson:"history"`
+	History []string `bson:"history"`
 	LastMatch string `bson:"lastMatch"`
 	Status string `bson:"status"`
 }
