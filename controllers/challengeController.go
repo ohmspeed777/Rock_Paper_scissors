@@ -75,7 +75,7 @@ func (controller *challengeController) Challenge(ctx *gin.Context) {
 	// check challenge is exist, if it exist  then cerate score 
 	// check form opponent id
 	challengeSuccess := service.SingleChallenge()
-	_ = mgm.Coll(challengeSuccess).First(bson.M{"opponent": challenger.Challenger}, challengeSuccess)
+	_ = mgm.Coll(challengeSuccess).First(bson.M{"opponent": challenger.Challenger, "challenger": opponent.ID.Hex()}, challengeSuccess)
 
 
 	// check already challenge if not create
